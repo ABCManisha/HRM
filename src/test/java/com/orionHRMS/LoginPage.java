@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class Login extends SeleniumTest {
+public class LoginPage extends SeleniumTest {
 //    @Test(priority = 1)
 //    public void title() {
 //        System.out.println("Test 1");
