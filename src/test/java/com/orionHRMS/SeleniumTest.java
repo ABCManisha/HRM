@@ -10,7 +10,7 @@ import java.time.Duration;
 
 public class SeleniumTest {
     public static WebDriver driver;
-    public WebElement element;
+    public static WebElement element;
 
     @BeforeClass
     public void setUp() {
