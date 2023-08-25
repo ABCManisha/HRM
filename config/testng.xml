@@ -3,7 +3,8 @@
 <suite name="Cross-Platform">
     <test name="Test">
         <classes>
-            <class name="com.orionHRMS.Login" />
+<!--            <class name="com.orionHRMS.LoginPage" />-->
+            <class name="com.orionHRMS.HomePage" />
         </classes>
     </test>
 </suite>
