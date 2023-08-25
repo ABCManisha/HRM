@@ -3,9 +3,13 @@
 <suite name="Cross-Platform">
     <test name="Test">
         <classes>
+<<<<<<< HEAD
 <!--            <class name="com.orionHRMS.LoginPage" />-->
             <class name="com.orionHRMS.HomePageTest" />
             <class name="com.orionHRMS.LoginPageTest" />
+=======
+            <class name="com.orionHRMS.LoginPage" />
+>>>>>>> origin/main
         </classes>
     </test>
 </suite>
