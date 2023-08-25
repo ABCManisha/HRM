@@ -7,7 +7,7 @@ import java.time.Duration;
 
 public class HomePageTest extends SeleniumTest{
     @Test
-    public void nabBar() throws Exception {
+    public void nabBar() {
 
         LoginPageTest.loginTest();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));

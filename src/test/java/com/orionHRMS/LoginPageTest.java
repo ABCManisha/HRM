@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class LoginPageTest extends SeleniumTest {
 
     @Test()
-    public static void loginTest() throws Exception {
+    public static void loginTest() {
 
         //WebDriverWait wait = new WebDriverWait(driver,10); // Wait for up to 10 seconds
 

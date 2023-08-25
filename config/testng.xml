@@ -4,7 +4,8 @@
     <test name="Test">
         <classes>
 <!--            <class name="com.orionHRMS.LoginPage" />-->
-            <class name="com.orionHRMS.HomePage" />
+            <class name="com.orionHRMS.HomePageTest" />
+            <class name="com.orionHRMS.LoginPageTest" />
         </classes>
     </test>
 </suite>
