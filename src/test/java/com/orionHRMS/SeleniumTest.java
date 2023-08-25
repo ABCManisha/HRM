@@ -1,5 +1,6 @@
 package com.orionHRMS;
 
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.*;
 
 import org.openqa.selenium.WebDriver;
@@ -8,7 +9,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 
 public class SeleniumTest {
-    public WebDriver driver;
+    public static WebDriver driver;
+    public static WebElement element;
 
     @BeforeClass
     public void setUp() {
